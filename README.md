@@ -15,7 +15,7 @@ Serves as a learning resource for understanding web development best practices.
 ## Usage
 
 Clone the project for practice purposes
-git clone https://mrsiamabdullah.github.io/space-x-clone/
+https://mrsiamabdullah.github.io/space-x-clone/
 ## Additional Notes
 
 This clone includes dynamic functionality or data fetching from external sources.
