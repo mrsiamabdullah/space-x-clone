@@ -14,7 +14,7 @@ Demonstrates proficiency in HTML, CSS, and JavaScript (if applicable) for web de
 Serves as a learning resource for understanding web development best practices.
 ## Usage
 
-Clone the repository: Use the following command to clone this repository to your local machine:
+Clone the project for practice purposes
 git clone https://mrsiamabdullah.github.io/space-x-clone/
 ## Additional Notes
 
